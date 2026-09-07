@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm El Allouche Zakariyae</h1>
 - 🔭 I’m currently working on **Academic project**
 
-- 📫 How to reach me **allouchezaki45@gmail.com**
+- 📫 How to reach me **zelallouche@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
