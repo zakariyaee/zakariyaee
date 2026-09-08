@@ -150,14 +150,6 @@ PostgreSQL • MySQL • Oracle • SQL • PL/SQL
 * ☁️ **Oracle Cloud Infrastructure Foundations Associate** — Oracle, 2025
 * 🧪 **ISTQB Certified Tester Foundation Level** — In Progress
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakariyaee&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyaee&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
 
 ---
 
