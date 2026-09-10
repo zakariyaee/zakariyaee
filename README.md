@@ -29,27 +29,43 @@ Je conçois et automatise des stratégies de test pour des applications backend 
 <tr>
 <td width="100%">
 
-**[Spawnta](https://github.com/ism4il-04/spawnta.git)** — Plateforme sociale d'activités
-Scénarios de test end-to-end sur les parcours critiques, automatisation UI/API, pipeline CI/CD déployé sur AWS.
-`Spring Boot` `Angular` `PostgreSQL` `AWS` `Selenium` `RestAssured`
+### [Spawnta](https://github.com/ism4il-04/spawnta.git)
+Plateforme sociale d'activités — Scénarios de test end-to-end sur les parcours critiques, automatisation UI/API, pipeline CI/CD déployé sur AWS.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-4E90F5?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="100%">
 
-**[SGITU](https://github.com/AmineElBiyadi/SGITU-Microservices.git)** — Gestion de transport urbain
-Microservice Users dans une architecture distribuée, event streaming asynchrone, déploiement Kubernetes local.
-`Spring Boot` `Kafka` `Docker` `Kubernetes` `Spring Security`
+### [SGITU](https://github.com/AmineElBiyadi/SGITU-Microservices.git)
+Gestion de transport urbain — Microservice Users dans une architecture distribuée, event streaming asynchrone, déploiement Kubernetes local.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="100%">
 
-**[Assistant IA multilingue](https://github.com/zakariyaee/emc-helpline-chatbot.git)** — Support cyberviolence · `61 tests`
-Pipeline RAG multilingue avec filtrage de sécurité et détection de crise.
-`Python` `RAG` `ChromaDB` `FastAPI` `Streamlit`
+### [Assistant IA multilingue](https://github.com/zakariyaee/emc-helpline-chatbot.git)
+Support cyberviolence · `61 tests` — Pipeline RAG multilingue avec filtrage de sécurité et détection de crise.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-9B96ED?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4E90F5?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
 </tr>
@@ -66,7 +82,12 @@ Pipeline RAG multilingue avec filtrage de sécurité et détection de crise.
 
 ### `GITHUB STATS`
 
-<img src="https://github-readme-stats.vercel.app/api?username=zakariyaee&show_icons=true&hide_border=true&title_color=4E90F5&icon_color=9B96ED&text_color=5a5a7a&bg_color=ffffff" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariyaee&hide_border=true&background=FFFFFF&ring=4E90F5&fire=94C000&currStreakLabel=4E90F5&sideLabels=5a5a7a&currStreakNum=1a1a2e&sideNums=1a1a2e&dates=5a5a7a" height="165"/>
+<table>
+<tr>
+<td><img src="https://github-stats-extended.vercel.app/api?username=zakariyaee&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark" width="100%"/></td>
+<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zakariyaee&layout=compact&hide_border=true&theme=dark" width="100%"/></td>
+</tr>
+</table>
 
 <br/><br/>
 
