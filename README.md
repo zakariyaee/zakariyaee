@@ -120,8 +120,8 @@ Support cyberviolence · `61 tests` — Pipeline RAG multilingue avec filtrage d
 
 ### `CERTIFICATIONS`
 
-- ☁️ **Oracle Cloud Infrastructure Foundations Associate** — Oracle · 2025
-- 🧪 **ISTQB Certified Tester Foundation Level** — En cours
+-  **Oracle Cloud Infrastructure Foundations Associate** — Oracle · 2025
+-  **ISTQB Certified Tester Foundation Level** — En cours
 
 <br/>
 
