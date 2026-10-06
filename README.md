@@ -4,7 +4,6 @@
 
 Je conçois et automatise des stratégies de test pour des applications backend et des systèmes d'IA — de la conception de scénarios end-to-end à la validation d'APIs et de comportements sensibles.
 
-<a href="https://github.com/zakariyaee"><img src="https://img.shields.io/badge/GITHUB-1a1a2e?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/el-allouche-zakariyae-38864a361"><img src="https://img.shields.io/badge/LINKEDIN-9B96ED?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:zelallouche@gmail.com"><img src="https://img.shields.io/badge/EMAIL-4E90F5?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://portfolio-pi-navy-83.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-94C000?style=flat-square&logo=vercel&logoColor=white" /></a>
